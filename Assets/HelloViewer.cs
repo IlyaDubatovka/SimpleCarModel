@@ -7,7 +7,7 @@ public class HelloViewer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello Viewer");
+        Debug.LogFormat("Hello Viewer!");
     }
 
 }
